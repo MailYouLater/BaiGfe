@@ -10,7 +10,10 @@
 ### **Note:** Make a backup of every file you edit!
 
 ## Easy copy/paste fix:
-1. Download pre-modded app.js: [https://github.com/MailYouLater/BaiGfe/raw/master/app.js](https://github.com/MailYouLater/BaiGfe/raw/master/app.js)
+1. Download a pre-modded app.js.  
+   Pick one:
+   - [Beautified version (modded from GFE 3.27.0.112)](https://github.com/MailYouLater/BaiGfe/raw/master/beautified/app.js)
+   - [Minified version (modded from GFE 3.27.0.112)](https://github.com/MailYouLater/BaiGfe/raw/master/minified/app.js)
 2. Copy & paste it into:
    ```
    C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\www\
@@ -159,7 +162,7 @@ open "CMD" > `ipconfig /flushdns` )
 
 &#x200B;
 
-# PS: The "beautified" version of app.js will work just fine, you can minify it back, but it's not mandatory (just like login :) ).
+## PS: The "beautified" version of app.js will work just fine, you can minify it back, but it's not mandatory (just like login :) ).
 
 *Post and fix based off the previous mod author(s), mainly:* [*https://www.reddit.com/r/nvidia/comments/8b5nej/updated\_remove\_mandatory\_login\_of\_geforce/*](https://www.reddit.com/r/nvidia/comments/8b5nej/updated_remove_mandatory_login_of_geforce/)  
 This fork of [https://github.com/Moyster/BaiGfe](https://github.com/Moyster/BaiGfe) is intended to update the instructions since newer versions of GFE have changed some things, and also to improve the layout to hopefully make it a bit easier to follow.
