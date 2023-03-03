@@ -59,7 +59,7 @@ You may need to allow the script to run on your system. To do this:
    - find this:
      ```
                  }, b.isLeftPaneVisible = function() {
-                     return !("choose" === y.nvActiveAuthView)
+                     return !("choose" === b.nvActiveAuthView)
                  }
      ```
    - and replace it with this:
